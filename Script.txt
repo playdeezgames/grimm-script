@@ -1,0 +1,70 @@
+S1:
+Hello and welcome to the World of Grimm gameplay deep dive, here you'll learn how to play the game, hear an explanation of the cards stats, and look into our cosmetic variant system.
+
+S2:
+World of Grimm is a fast-paced online collectible card game set in the Brothers Grimm universe. 
+
+S3:
+Every character and Realm you'll see in the game is from one of the many fairy tales that the Grimm brothers wrote.
+
+S4:
+Unlike other card games where players take alternating turns, in World of Grimm, both players play cards simultaneously. 
+
+S5:
+After both players press End Turn, cards are then revealed based on priority, or who is currently winning the match.
+
+S6:
+There are two types of cards in World of Grimm. Characters and Spells. 
+
+S7:
+Characters have three stats, Mana, Health
+and Attack Power while Spells only have Mana. 
+
+S8:
+When a Character's health reaches 0, they die and their Attack Power becomes 0. 
+
+S9: 
+Every card has an ability that affects the game when played.
+
+S10:
+Here are some of the common ability keywords
+
+S11:
+On Play: When the card is revealed, this effect triggers.
+
+S12:
+Channel: This effect is active on the board unless nullified or the Character's health reaches 0.
+
+S13:
+Fury: This type of effect triggers when the Character gets hurt.
+
+S14:
+Timeshift: This changes the game from day to night and vice versa, triggering all cards that have this type of ability.
+
+S15:
+In order to win a match, you will need to have a larger Total Attack Power (or TAP) in 2 out of 3 Realms on the gameboard. 
+
+S16:
+You can place cards each turn equal to the total Mana for that turn (typically equal to the turn number). 
+
+S17:
+If at least 1 Realm has a tied TAP, the winner of the game is based on total TAPs of all Realms.
+
+S18:
+Variants exist in World of Grimm as a way for you to express yourself and show off your deck the way you want to. 
+
+S19:
+Each card in the game will have multiple variants that can be earned by playing the game and unlocking them or purchasing special ones in the shop. 
+
+S20:
+Our variants showcase artists from all over the world and a portion of the revenue generated from players buying the variants are kicked back to the artists as well!
+
+S21:
+We hope you'll join us on this adventure and help bring World of Grimm to life. 
+
+S22:
+Our kickstarter is live now and you can check out the link on screen or in the description to go to the page and back the project. 
+
+S23:
+Thank you for watching and let's rewrite some Grimm stories.
+
